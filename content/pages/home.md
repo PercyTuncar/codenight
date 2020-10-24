@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Code Night
-featuredImage: https://ucarecdn.com/ff1f0db2-2711-4a05-84ec-2bf5c3c25520/
+featuredImage: https://ucarecdn.com/b8207e2f-46af-43a4-ac15-07e496ba66aa/
 subtitle: " Welcome to the ultimate Gatsby and Netlify starter project."
 meta:
   description: This is a meta description.
