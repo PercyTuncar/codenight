@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Code Night
-featuredImage: https://ucarecdn.com/b8207e2f-46af-43a4-ac15-07e496ba66aa/
+featuredImage: https://ucarecdn.com/ed31b990-bee6-444b-b27f-c579b3af6f88/
 subtitle: Las empresas más grandes están impulsadas por **DESARROLLADORES**
   aspirantes como usted  👨‍💻
 meta:
