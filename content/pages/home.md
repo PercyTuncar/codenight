@@ -3,7 +3,8 @@ template: HomePage
 slug: ""
 title: Code Night
 featuredImage: https://ucarecdn.com/b8207e2f-46af-43a4-ac15-07e496ba66aa/
-subtitle: " Welcome to the ultimate Gatsby and Netlify starter project."
+subtitle: Las empresas más grandes están impulsadas por **DESARROLLADORES**
+  aspirantes como usted  👨‍💻
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
