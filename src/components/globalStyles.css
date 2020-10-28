@@ -37,7 +37,7 @@ body {
   font-family: var(--font-system);
   min-height: 100%;
   position: relative;
-  background: white;
+  background: #1A202C;
   color: var(--secondary);
   font-size: 1.6em;
   font-weight: 400;
@@ -184,8 +184,8 @@ blockquote {
 }
 
 .container {
-  max-width: 1111px;
-  width: 90%;
+
+  width: 100%;
   margin: 0 auto;
 }
 .container.skinny {
@@ -232,3 +232,7 @@ blockquote {
   align-items: center;
   justify-content: center;
 }
+
+
+
+

@@ -58,6 +58,8 @@ export class Navigation extends Component {
       )
 
     return (
+      <>
+      <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet"></link>
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
           <Link
@@ -122,6 +124,7 @@ export class Navigation extends Component {
           </button>
         </div>
       </nav>
+      </>
     )
   }
 }

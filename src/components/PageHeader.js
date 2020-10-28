@@ -12,6 +12,7 @@ const PageHeader = ({
   large,
   className = ''
 }) => {
+  
   if (large) className += ' PageHeader-large'
   return (
     <div className={`PageHeader relative ${className}`}>

@@ -1,11 +1,13 @@
 .PageHeader {
+  display: none;
   background-color: var(--darkGrey);
   color: white;
   padding: 15rem 0;
 }
 
 .PageHeader .BackgroundImage {
-  opacity: 0.8;
+  opacity: 0.5;
+  background: #020b1b;
 }
 
 .PageHeader-large {
@@ -33,4 +35,55 @@
   .PageHeader-large {
     padding: 12.5rem 0;
   }
+}
+
+.imagefondo{ 
+  margin-top: -50px;
+  height: 400px;
+  /* Ubicación de la imagen */
+
+background-image: url(https://images.unsplash.com/photo-1497091071254-cc9b2ba7c48a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=753&q=80);
+
+/* Para dejar la imagen de fondo centrada, vertical y
+
+horizontalmente */
+
+
+
+/* Para que la imagen de fondo no se repita */
+
+background-repeat: no-repeat;
+
+/* La imagen se fija en la ventana de visualización para que la altura de la imagen no supere a la del contenido */
+
+
+
+/* La imagen de fondo se reescala automáticamente con el cambio del ancho de ventana del navegador */
+
+background-size: cover;
+
+/* Se muestra un color de fondo mientras se está cargando la imagen
+
+de fondo o si hay problemas para cargarla */
+
+
+
+
+}
+@media only screen and (max-width: 767px) {
+
+  body {
+  
+  background-image: url(https://images.unsplash.com/photo-1563206767-5b18f218e8de?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80);
+  background-repeat: no-repeat;
+background-size: cover;
+  }
+}
+.cabeza {
+  width: 80%;
+  margin-left: 10%;
+}
+
+.bg-gray-900{
+  background: none !important;
 }
